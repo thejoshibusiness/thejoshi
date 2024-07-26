@@ -18,7 +18,8 @@ h1{width:100%; font-size:36px; color:#747474; text-align:center;}
 .templatemo_blackoverlay{opacity:0.6; width:100%; height:100%; ; position:absolute; top:53px;}
 
 .templatemo_titlewrapper{top:0; width:100%; left:0;}
-.templatemo_title{position:absolute; height:150px; line-height:84px; float:left; display:block; width:100%; text-align:center; font-size:50px; color:#ffffff; top:0; left:0;}
+.templatemo_title1{position:absolute; height:150px; line-height:84px; float:left; display:block; width:100%; text-align:left; font-size:30px; color:#ffffff; top:0; left:150px;}
+.templatemo_title{position:absolute; height:150px; line-height:84px; float:left; display:block; width:100%; text-align:center; font-size:30px; color:#ffffff; top:0; left:0;}
 .templatemo_title span{display:block; height:150px;}
 
 .templatemo_menu{position:relative; top:10%;}
@@ -178,4 +179,13 @@ Media Queries
 	.templatemo_homebutton{margin:70px auto 20px auto;}
 	.slidernav a.previous{left:15%;}
 	.slidernav a.next{right:15%;}
+	}
+
+	.circle { 
+		
+		border: solid 1px;  
+		border-radius: 50%;  
+		
+		background-color: white;
+		position:absolute; height:130px; line-height:84px; float:left; display:block; width:140px; text-align:left; font-size:30px; color:#ffffff; top:5px; left:125px;
 	}
