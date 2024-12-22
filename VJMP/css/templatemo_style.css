@@ -42,6 +42,7 @@ h1{width:100%; font-size:36px; color:#747474; text-align:center;}
 .templatemo_servicewrapper{background:#f0eeee; padding:50px 0 50px 0; width:100%; text-align:center;}
 .templatemo_servicebox{background:#ffffff; border-radius:5px; padding:25px;}
 .templatemo_serviceicon{background:#e46142; color:#ffffff; width:80px; height:80px; margin:0 auto; border-radius:5px; font-size:40px; line-height:80px; text-align:center;}
+.templatemo_serviceicon1{background:#e46142; color:#ffffff; width:400px; height:80px; margin:0 auto; border-radius:5px; font-size:40px; line-height:80px; text-align:center;}
 .templatemo_service_title{font-size:18px; margin:15px 0 5px 0; color:#575757;}
 
 .templatemo_workwrapper{width:100%; padding:70px 0 50px 0; text-align:center;}
@@ -56,7 +57,7 @@ h1{width:100%; font-size:36px; color:#747474; text-align:center;}
 .templatemo_team_name{font-size:16px; color:#e46142; margin-top:10px;}
 .templatemo_team_post{font-size:14px;}
 
-.templatemo_contactwrapper{padding:100px 0 30px 0;}
+.templatemo_contactwrapper{padding:70px 0 30px 0;}
 #templatemo_map{height:250px; width:100%; margin-top:20px;}
 .templatemo_contactmargin{margin-top:30px;}
 .templatemo_address_title{float:left; width:100%; margin:0 0 20px 0;}
@@ -134,7 +135,7 @@ Media Queries
 	.templatemo_headerimage{margin-top:35px;}
 	.templatemo_title{font-size:32px; line-height:50px;}
 	.templatemo_title1{position:absolute; height:150px; line-height:84px; float:left; display:block; width:100%; text-align:left; font-size:30px; color:#ffffff; top:0; left:150px;}
-	.templatemo_topbar .navbar-nav{width:600px;}
+	.templatemo_topbar .navbar-nav{width:700px;}
 	.templatemo_titlewrappersmall{display:none;}
 	.templatemo_topbar .navbar{position:relative; top:-35px;}
 	.templatemo_workbox{width:50%;}
